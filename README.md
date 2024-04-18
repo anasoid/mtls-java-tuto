@@ -70,5 +70,5 @@ client received 39 bytes: Hello World Message processed by server
 .
 ```
 
-Server terminal will display "server received 19 bytes: Hello World Message" after client call and exit.
+Server terminal will display "__server received 19 bytes: Hello World Message__" after client call and exit.
 
