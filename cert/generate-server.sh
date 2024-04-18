@@ -5,7 +5,7 @@ keytool -genkey -keyalg RSA -keysize 2048 -sigalg SHA256withRSA -keystore tmp-ce
 -ext san=ip:127.0.0.1,dns:localhost \
 -storepass password \
 -alias serverkey \
--validity 999999 \
+-validity 365 \
 -dname "cn=me, ou=unit, o=org, c=MA"
 
 echo ""
