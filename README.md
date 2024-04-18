@@ -1,6 +1,6 @@
 # mtls-java-tuto
 
-based on https://www.baeldung.com/java-https-client-certificate-authentication
+Based on https://www.baeldung.com/java-https-client-certificate-authentication
 
 ## Generate Certificate
 
